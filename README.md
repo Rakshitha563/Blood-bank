@@ -1,1 +1,1 @@
-# Blood-bank
+# Django blood bank management system
